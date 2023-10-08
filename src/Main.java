@@ -5,7 +5,7 @@ public class Main{
      shape rect1 = new rectangle();
      Startwork rec = new Startwork(rect1);
      shape cir1 = new circle();
-     Startwork circle = new Startwork(cir1);5
+
     }
 }
 interface shape{
